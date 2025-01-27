@@ -1,4 +1,4 @@
-# true-neutral-cookiecutter
-A minimalist cookiecutter for research and data science projects
+# reserach-project-cookiecutter
+A file structure scaffold for a computational research project.
 
-Run via `cookiecutter gh:patrickmineault/true-neutral-cookiecutter`
+Run via `cookiecutter gh:kaphillips/research-project-cookiecutter`
