@@ -1,3 +1,6 @@
+# By default, leave data out of VC
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
